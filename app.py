@@ -4,7 +4,8 @@ from excel_generator import generate_quotation_excel
 
 # 페이지 설정
 st.set_page_config(page_title="시험 견적 시스템", layout="wide")
-st.title("시험 견적 시스템")
+st.image("logo.png", width=220)
+st.subheader("시험견적시스템")
 
 # 데이터 로드 (업체DB는 더 이상 사용하지 않음)
 @st.cache_data
