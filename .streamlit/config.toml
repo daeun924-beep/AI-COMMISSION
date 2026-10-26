@@ -2,4 +2,4 @@
    base = "light"
    primaryColor = "#0052A3"
 showWidgetBorder = true
-borderColor = #b4b4b4
+borderColor = "#b4b4b4"
